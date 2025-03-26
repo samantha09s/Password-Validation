@@ -1,2 +1,2 @@
-# Validaci-n-Contrase-a
-Ejercicio desarrollado como parte del programa Python Fundamentals 2025, impartido por SoftServe Academy.
+# Password Validation in Python
+Exercise developed as part of the Python Fundamentals 2025 program by SoftServe Academy.
